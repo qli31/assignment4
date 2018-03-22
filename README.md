@@ -2,11 +2,17 @@
 
 # Team information 
 city-team name: Medellin 
+
 Qianyi Li - Information Architect 
+
 Forest Shi - Design Artist 
+
 Zubair - Coder 
+
 Website Location:
+
 GitHub Location: https://github.com/qli31/assignment4
+
 Database Location:
 
 # The Information Architecture Section 
