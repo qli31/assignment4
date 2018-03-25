@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Jimmy Yang, Assignment 3</title>
+		<title>Jimmy Yang, Assignment 4</title>
 		<!-- Designer include stylesheet-->
 		<link href="css/styles.css" rel="stylesheet">
 		<!-- links for fontface -->
@@ -33,11 +33,17 @@
 		        <p>Hello! My name is Jimmy Yang. I am a sophomore attending the University of Rochester and I am double majoring in Economics and Global Perspectives History.</p>
 
 				<h2>Work Experience</h2>
+				<ul>
+					<li>Student Aide at the University of Rochester. I patrol sectors and act as the eyes and ears of Public Safety</li>
+					<li>worked as a technical assistant at the University of Rochester Medical Center</li>
+					
+				</ul> 
 
-				<p>Currently, I am a Student Aide at the University of Rochester. I patrol sectors and act as the eyes and ears of Public Safety, so to say. In the past, I've worked as a technical assistant at the University of Rochester Medical Center. In that position I looked at records and organized them, as well as uploading them to the internet. After that, I worked as a Volume Licensing Support Specialist for Arvato Digital Services LLC, which was a third-party vendor for Microsoft. I processed orders and made sure that the information was correct. Unfortunately for you, the curious viewer, these jobs are very confidential and I cannot reveal much information.</p>
+		
 
 				<h2>Course Work</h2>
-				
+				<h3>Not overlaod yet. Feeling awesome!</h3>
+
 				<p>When I enrolled at the University of Rochester, I had planned to pursue a Financial Economics major. I have decided to change course recently and do a double major in Economics and Global Perspectives History. I've taken courses on Calculus II, the Vikings, Microeconomics, Macroeconomics, Environmental Economics, Statistics, Python, HTML, and Russian politics. This semester, I'm taking Econometrics, which is a class that covers the basic tools of estimation, inference and forecast of cross-section, time-series and panel data models. I'm also taking a course called Hitler's Germany, which analyzes the events and causes that led to the rise of Hitler and the Nazis. I'm also taking a course on Colonial Latin America, which analyzes the society and culture of Colonial Latin America, and how numerous factors in pre-Columbian America, Europe, and Africa led to the society that existed in Colonial Latin America. And of course, I'm taking this class.</p>
 
 
