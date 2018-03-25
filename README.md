@@ -42,6 +42,7 @@ Details for fonts are mentioned above, in general the first students will have t
 The web form should gather the users information about their coursework and work experience during their sophmore year or senior year, which are sharing the same focus of the website. This is how this form is linked to the website. If the team decide to further expand this website, the team can put up the information they gathered from the form and use it to build more webpage. 
 
 first name 
+
 purpose: asking user for firstname input 
 
 input type: text 
@@ -53,6 +54,7 @@ id :firstname
 name: firstname 
 
 lastname  
+
 purpose: asking user for lastname  input 
 
 input type: text 
@@ -64,6 +66,7 @@ id :lastname
 name: firstname 
 
 class year
+
 purpose: asking for user's class year input 
 
 input type: radio 
