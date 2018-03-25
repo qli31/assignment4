@@ -43,40 +43,63 @@ The web form should gather the users information about their coursework and work
 
 first name 
 purpose: asking user for firstname input 
+
 input type: text 
+
 label: firstname 
+
 id :firstname 
+
 name: firstname 
 
 lastname  
 purpose: asking user for lastname  input 
+
 input type: text 
+
 label: lastname  
+
 id :lastname  
+
 name: firstname 
 
 class year
 purpose: asking for user's class year input 
+
 input type: radio 
-label: sophmore / senior  
-id :sophmore / senior   
+
+label: sophmore / senior 
+
+id :sophmore / senior  
+
 name: year
 
 coursework 
+
 purpose: asking for user's coursework 
+
 input type: textarea
+
 label: coursework
+
 id :coursework
+
 name: coursework
 
 work experience 
+
 purpose: asking for user's work experience 
+
 input type: textarea
+
 label: work experience 
+
 id :coursework
+
 name: work experience 
 
 submit 
+
 input type:submit
 
 ### web form layout 
