@@ -31,7 +31,7 @@ For introduction page: The page will have a short introduction for four students
 
 For individual page: The work experience, coursework and the picture for coursework will be on the left side and take around 70% of the space. The picture for the individual will be on the right side. The heading and the navigation bar should be in the center and have the same width as the body part.
 
-In general, all the page should have nevigation bars. The nevigation bars should have links to all the pages except the thank you page(post_survey.php). All the pages should have idencial footer and similar design(but show contrast in the forth student webpage).
+In general, all the page should have nevigation bars. The coder should make sure the navigation bar work properly. It is recommended for the designer to have a contrast color for the forth student in the nevigation bar. The nevigation bar should have links to all the pages except the thank you page(post_survey.php). All the pages should have idencial footer and similar design(but show contrast in the forth student webpage).
 
 ### suggestion for fonts
 
