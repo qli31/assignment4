@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Jimmy Yang, Assignment 4</title>
-		<!-- Designer include stylesheet-->
-		<link href="css/styles.css" rel="stylesheet">
-		<!-- links for fontface -->
-		<!-- Designer include lato fonts for headers and Roboto for body text-->
-		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
-	</head>
-=======
 <?php
 
 $title = "Jimmy";
@@ -21,7 +5,7 @@ $title = "Jimmy";
 include "includes/head.php";
 
 ?>
->>>>>>> fc35797ddd533298d1ca438287b1f34ce215a83b
+
 	<body>
 	<!-- The header should include a php include-->
 	<!-- coder make sure the php files work-->
@@ -46,10 +30,10 @@ include "includes/nav.php";
 				<ul>
 					<li>Student Aide at the University of Rochester. I patrol sectors and act as the eyes and ears of Public Safety</li>
 					<li>worked as a technical assistant at the University of Rochester Medical Center</li>
-					
-				</ul> 
 
-		
+				</ul>
+
+
 
 				<h2>Course Work</h2>
 <<<<<<< HEAD

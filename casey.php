@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Casey A. Brentnall, Assignment 4</title>
-		<!-- Designer include stylesheet-->
-		<link href="css/styles.css" rel="stylesheet">
-		<!-- links for fontface -->
-		<!-- Designer include lato fonts for headers and Roboto for body text-->
-		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
-	</head>
-=======
 <?php
 
 $title = "Casey";
@@ -49,10 +33,10 @@ include "includes/nav.php";
 				<ul>
 					<li>work as a Standardized Patient in a Suicide Prevention Training program at URMC</li>
 					<li>worked as a cashier at BJ's Wholesale Club, and Family Dollar</li>
-					
-				</ul> 
 
-				
+				</ul>
+
+
 
 				<h2>Course Work</h2>
 <<<<<<< HEAD

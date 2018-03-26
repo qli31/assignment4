@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Team Medellin, Assignment 4</title>
-		<!-- Designer include stylesheet-->
-		<link href="css/styles.css" rel="stylesheet">
-		<!-- designer include a link for slider.css -->
-		<link rel="stylesheet" type="text/css" href=".css/responsiveslides.css">
-		<!-- links for fontface -->
-		<!-- Designer include lato fonts for headers and Roboto for body text-->
-		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
-	</head>
-=======
 <?php
 
 $title = "Home";
@@ -23,7 +5,6 @@ $title = "Home";
 include "includes/head.php";
 
 ?>
->>>>>>> fc35797ddd533298d1ca438287b1f34ce215a83b
 
 	<body>
 		<!-- The header should include a php include-->
@@ -45,7 +26,8 @@ include "includes/nav.php";
 					<h2>Casey A. Brentnall</h2>
 
 					<p>Hello! My name is Casey Adam Brentnall. I am a sophomore attending the the University of Rochester and my major is computer
-						science.</p>
+						science.
+					</p>
 
 					<h2>Irfan Bashir</h2>
 
@@ -75,7 +57,7 @@ include "includes/nav.php";
 
 		</div>
 		<!-- The footer should include a php include-->
-<?php
+		<?php
 include "includes/footer.php";
 ?>
 

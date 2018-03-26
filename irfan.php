@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Irfan Bashir, Assignment 4</title>
-		<!-- Designer include stylesheet-->
-		<link href="css/styles.css" rel="stylesheet">
-		<!-- links for fontface -->
-		<!-- Designer include lato fonts for headers and Roboto for body text-->
-		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
-	</head>
-=======
 <?php
 
 $title = "Irfan";
@@ -48,10 +32,10 @@ include "includes/nav.php";
 				<ul>
 					<li>co-founder of the Federation for Peace and Development (FPD), which my partners and I founded in December 2016</li>
 					<li>special correspondent, reporter, and editor with The Kashmir Scan since June 2009</li>
-					
-				</ul> 
 
-			
+				</ul>
+
+
 
 				<h2>Course Work</h2>
 <<<<<<< HEAD
