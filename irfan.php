@@ -59,16 +59,6 @@ include "includes/nav.php";
 				<p>When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. All in all, my course load this semester is both exciting and challenging and covers both mental and physical aspects of human learning. I would love to spend more time on dancing in this sememster.Spring of 18 feels good, so far! </p>
 
 
-				</ul>
-
-
-
-				<h2>Course Work</h2>
-
-				<h3>Not that busy as for now. Love to dance!</h3>
-
-				<p>When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. My economics course taught by Professor Rizzo is interesting in that it doesn’t fit the general description of an economics course. All in all, my course load this semester is exciting and covers both mental and physical aspects of human learning. I will be able to know something new but also have more time to dance. Spring of 18 feels good, so far!</p>
-
 
 
 		

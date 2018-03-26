@@ -65,9 +65,7 @@ include "includes/nav.php";
 
 				<h2>Course Work</h2>
 
-				<h3>Not overlaod yet. Feeling awesome!</h3>
-
-				<p>When I enrolled at the University of Rochester, I had planned to pursue a Financial Economics major. I have decided to change course recently and do a double major in Economics and Global Perspectives History. I've taken courses on Calculus II, the Vikings, Microeconomics, Macroeconomics, Environmental Economics, Statistics, Python, HTML, and Russian politics. This semester, I'm taking Econometrics, which is a class that covers the basic tools of estimation, inference and forecast of cross-section, time-series and panel data models. I'm also taking a course called Hitler's Germany, which analyzes the events and causes that led to the rise of Hitler and the Nazis. I'm also taking a course on Colonial Latin America, which analyzes the society and culture of Colonial Latin America, and how numerous factors in pre-Columbian America, Europe, and Africa led to the society that existed in Colonial Latin America. And of course, I'm taking this class.</p>
+				
 
 
 

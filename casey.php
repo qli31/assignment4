@@ -60,17 +60,7 @@ include "includes/nav.php";
 				<p>When I enrolled at the University of Rochester, I had planned on pursuing a double major in Computer Science and English. Because of this, my previous coursework is a pretty even mix of CSC and ENG courses. This semester, I'm taking Introduction to Artificial Intelligence, my next step in the computer science track. I'm also taking Linear Algebra and Differential Equations, my first math class after calculus. I'm taking this class, and lastly I'm taking Musical Theatre Workshop, a course in preparing scenework and audition materials for musical theatre actors. I like the schedule I have as for now. I get spare time for my hobbies. </p>
 
 
-				</ul>
-
-
-
-				<h2>Course Work</h2>
-
-				<h3>Not heavy work load right now, but definitely a big plan ahead.</h3>
-
-
-				<p>When I enrolled at the University of Rochester, I had planned on pursuing a double major in Computer Science and English. Because of this, my previous coursework is a pretty even mix of CSC and ENG courses. I've taken classes in acting, directing, dialect training, and in theatrical performance. On the computer science side, I've taken Data Structures and Algorithms, Formal Computation and Systems, and all the required math courses. This semester, I'm taking Introduction to Artificial Intelligence, my next step in the computer science track. I'm also taking Linear Algebra and Differential Equations, my first math class after calculus. I'm taking this class, and lastly I'm taking Musical Theatre Workshop, a course in preparing scenework and audition materials for musical theatre actors.</p>
-
+				
 
 
 
