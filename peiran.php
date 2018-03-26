@@ -44,7 +44,7 @@ include "includes/nav.php";
 					<p>When I enrolled at the University of Rochester, I had planned to pursue a Financial Economics and Data science major.Both
 						of the major are really intriging but also it is a lot of work to cover. I am currently taking CSC 265 this sememster.
 						Most of the semester I am overload but I really enjoy this experience. I plan to take fours courses in my last sememster
-						and in the mean time prepare for my GRE. </p>
+						and in the mean time prepare for my GRE. I need to finish my application as soon as possible. It is a lot of work to take care. I will surely take a long vocation after my application.</p>
 
 
 					<h2>Hometown Info</h2>
@@ -57,11 +57,7 @@ include "includes/nav.php";
 
 				<aside>
 					<img src="images/peiran.jpg" alt="peiran">
-					<h3>Extracurricular Activities</h3>
-					<ul>
-						<li>Riding bikes </li>
-						<li>Climbing mountains</li>
-					</ul>
+					
 
 				</aside>
 			</div>

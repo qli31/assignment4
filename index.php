@@ -1,3 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Team Medellin, Assignment 4</title>
+		<!-- Designer include stylesheet-->
+		<link href="css/styles.css" rel="stylesheet">
+		<!-- designer include a link for slider.css -->
+		<link rel="stylesheet" type="text/css" href=".css/responsiveslides.css">
+		<!-- links for fontface -->
+		<!-- Designer include lato fonts for headers and Roboto for body text-->
+		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+	</head>
+
 <?php
 
 $title = "Home";
@@ -5,6 +23,7 @@ $title = "Home";
 include "includes/head.php";
 
 ?>
+
 
 	<body>
 		<!-- The header should include a php include-->
@@ -38,6 +57,10 @@ include "includes/nav.php";
 
 					<p>Hello! My name is Jimmy Yang. I am a sophomore attending the University of Rochester and I am double majoring in Economics
 						and Global Perspectives History.</p>
+
+					<h2>Peiran Chen</h2>
+
+					<p>Hello! My name is Peiran Chen. I am a Senior attending the University of Rochester and I am double majoring in Data Science and Financial Economic.</p>
 
 				</article>
 
