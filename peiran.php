@@ -47,10 +47,6 @@ include "includes/nav.php";
 						and in the mean time prepare for my GRE. I need to finish my application as soon as possible. It is a lot of work to take care. I will surely take a long vocation after my application.</p>
 
 
-					<h2>Hometown Info</h2>
-
-					<p>I was born in China, Xian. Xi'an is the capital of Shaanxi Province, People's Republic of China. It is a sub-provincial
-						city located in the center of the Guanzhong Plain in Northwestern China. As of 2015 Xi'an has a population of 8,705,600.</p>
 
 				</article>
 

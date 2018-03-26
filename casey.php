@@ -73,9 +73,6 @@ include "includes/nav.php";
 
 
 
-				<h2>Hometown Info</h2>
-
-				<p>I was born in Farmington, New York. Farmington is a town located in the northern part of Ontario County, New York, United States. The population was 11,825 at the 2010 census. Farmington is about twenty-five miles southeast of Rochester, New York. The town was formed along with its county in 1789. The town is governed by a town council, and the council's supervisor is Peter Ingalsbe.</p>
 
 	        </article>
 

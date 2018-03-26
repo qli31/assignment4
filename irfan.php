@@ -71,10 +71,7 @@ include "includes/nav.php";
 
 
 
-				<h2>Hometown Info</h2>
-
-				<p>I was born in Srinagar, in the Indian administered part of Jammu and Kashmir state. It is located in Srinagar District, which is in the northwestern part of Jammu and Kashmir state, close to the Pakistani-Indian border. The population was 1,273,312, according to the 2011 Census. The city is estimated to have been founded in the 6th Century AD. The city is governed by Srinagar Municipal Corporation, which is essentially an elected body of councillors. The council's leader is Ghulam Mustafa Bhat.</p>
-
+		
 	        </article>
 
 

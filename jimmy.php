@@ -71,9 +71,7 @@ include "includes/nav.php";
 
 
 
-				<h2>Hometown Info</h2>
-
-				<p>Although my family and I have moved around a lot in our lives, I currently consider my hometown to be Fargo, North Dakota. It's located in Cass County along the Minnesota/North Dakota border, right on the west bank of the Red River of the North. It is about a four hour drive from Minneapolis, Minnesota. According to the 2016 Census, Fargo had a population of 120,762. The city was founded in 1871. Its current mayor is Tim Mahoney.</p>
+				
 
 	        </article>
 
