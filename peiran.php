@@ -39,7 +39,7 @@ include "includes/nav.php";
 
 
 					<h2>Course Work</h2>
-					<h3>So much work need to take care!</h3>
+					<h3>"So much work need to take care!"</h3>
 
 					<p>When I enrolled at the University of Rochester, I had planned to pursue a Financial Economics and Data science major.Both
 						of the major are really intriging but also it is a lot of work to cover. I am currently taking CSC 265 this sememster.

@@ -63,7 +63,6 @@ include "includes/nav.php";
 
 
 
-				<h2>Course Work</h2>
 
 				
 
