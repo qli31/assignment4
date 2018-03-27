@@ -6,6 +6,7 @@
 		     <li><a href="irfan.php">Irfan</a></li>
 		     <li><a href="jimmy.php">Jimmy</a></li>
 			 <li><a href="peiran.php">Peiran</a></li>
+			 <li><a href="survey.php">Contact</a></li>
 		 </ul>
 	</nav>
 </div>

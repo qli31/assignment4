@@ -1,6 +1,6 @@
 <?php
 
-$title = "Survey 1";
+$title = "Thank You!";
 
 include "includes/head.php";
 
@@ -17,6 +17,7 @@ include "includes/nav.php";
 
 	</div>
 	<p>Thank you for filling out the survey!</p>
+	<p>Click <a href="index.php">here</a> to go back home</p>
 
 
 

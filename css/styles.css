@@ -1,122 +1,126 @@
-body{
-   background-color: #ffffff;
+body {
+	background-color: #ffffff;
 }
 .header {
-  background-color: gold;
-  padding: 40px 20px;
-  overflow: hidden;
+	background-color: gold;
+	padding: 40px 20px;
+	overflow: hidden;
 }
 
-.header .name{
-  float: left;
-  color: #ffffff;
-  font-family: 'Lato', sans-serif;
-  font-size: 25px;
-  font-weight: bold; 
-  line-height: 25px;
-  padding: 10px;
+.header .name {
+	float: left;
+	color: #ffffff;
+	font-family: "Lato", sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 25px;
+	padding: 10px;
 }
 
-.header a{
-  color: #ffffff;
-  font-size: 20px; 
-  font-family: 'Lato', sans-serif;
-  line-height: 25px;
-  text-decoration: none;
-  padding: 10px;
+.header a {
+	color: #ffffff;
+	font-size: 20px;
+	font-family: "Lato", sans-serif;
+	line-height: 25px;
+	text-decoration: none;
+	padding: 10px;
 }
 
 .header a:hover {
-  background-color:#ffffff;
-  color: black;
+	background-color: #ffffff;
+	color: black;
 }
 .nav {
-    list-style: none;
-    font-weight: bold;
-    padding-top: 10px
+	list-style: none;
+	font-weight: bold;
+	padding-top: 10px;
 }
 
 .nav-right {
-  float: right;
+	float: right;
 }
 
 .container {
-  display: flex;
-  margin: 0 auto;
-  width: 90%;
-  max-width: 1000px;
+	display: flex;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 1000px;
 }
-
 
 .flexColumn {
-    flex-direction: column;
+	flex-direction: column;
 }
 
-h2 h3{
-  font-family: 'Lato', sans-serif;
+h2 h3 {
+	font-family: "Lato", sans-serif;
 }
 
-body{
-  font-family: 'Roboto', sans-serif;
-  line-height: 25px;
-
+body {
+	font-family: "Roboto", sans-serif;
+	line-height: 25px;
 }
 
-article{
-    order: 2;
-    padding: 20px;
-    border-right: 1px solid gold;
+article {
+	order: 2;
+	padding: 20px;
+	border-right: 1px solid gold;
 }
 
-aside{
-    width: 20%;
-    background: white;
-    padding: 20px;
-    order: 3
+aside {
+	width: 20%;
+	background: white;
+	padding: 20px;
+	order: 3;
 }
 
-footer{
-  overflow: hidden;
-  background-color: gold;
-  padding: 30px 15px;
-  text-align: center;
-  color: #ffffff;
-  font-size: 20px; 
-  line-height: 25px;
-  padding: 10px;
+footer {
+	overflow: hidden;
+	background-color: gold;
+	padding: 30px 15px;
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+	line-height: 25px;
+	padding: 10px;
 }
 
+img {
+	height: auto;
+	max-width: 300px;
+	max-height: 400px;
+}
 
 /*  *************************************
   Media Queries
   ************************************* */
 
-@media(max-width: 720px){
-     article, aside{
-        display: block;
-        width: auto;
-    }
+@media (max-width: 720px) {
+	article,
+	aside {
+		display: block;
+		width: auto;
+	}
 }
 
-@media(max-width: 540px){
-     article, nav{
-        background-image: none;
-        padding: 0;
-        position: static;
-    }
+@media (max-width: 540px) {
+	article,
+	nav {
+		background-image: none;
+		padding: 0;
+		position: static;
+	}
 }
 
-@media(max-width: 390px){
-      .header nav li{
-      display: block; 
-      float: none;
-      text-align: left; 
-    }
+@media (max-width: 390px) {
+	.header nav li {
+		display: block;
+		float: none;
+		text-align: left;
+	}
 
-    .nav-right {
-      float: none;
-      margin-left: 0;
-      margin-top: 25px;
-      
-    }
+	.nav-right {
+		float: none;
+		margin-left: 0;
+		margin-top: 25px;
+	}
 }

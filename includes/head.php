@@ -9,6 +9,7 @@
     </title>
     <!-- Designer include stylesheet-->
     <link href="css/styles.css" rel="stylesheet">
+    <link href="css/forms.css" rel="stylesheet">
     <!-- designer include a link for slider.css -->
     <link rel="stylesheet" type="text/css" href=".css/responsiveslides.css">
     <!-- links for fontface -->
