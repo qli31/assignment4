@@ -1,18 +1,18 @@
-
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Irfan Bashir, Assignment 4</title>
-		<!-- Designer include stylesheet-->
-		<link href="css/styles.css" rel="stylesheet">
-		<!-- links for fontface -->
-		<!-- Designer include lato fonts for headers and Roboto for body text-->
-		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
-	</head>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Irfan Bashir, Assignment 4</title>
+	<!-- Designer include stylesheet-->
+	<link href="css/styles.css" rel="stylesheet">
+	<!-- links for fontface -->
+	<!-- Designer include lato fonts for headers and Roboto for body text-->
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+</head>
 
 <?php
 
@@ -21,10 +21,6 @@ $title = "Irfan";
 include "includes/head.php";
 
 ?>
-<<<<<<< HEAD
-=======
-
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
 
 	<body>
 		<!-- The header should include a php include-->
@@ -53,26 +49,16 @@ include "includes/nav.php";
 						<li>co-founder of the Federation for Peace and Development (FPD), which my partners and I founded in December 2016</li>
 						<li>special correspondent, reporter, and editor with The Kashmir Scan since June 2009</li>
 
-<<<<<<< HEAD
+
 					</ul>
 
-=======
-					
-				</ul> 
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
 
-			
 
-<<<<<<< HEAD
 					<h2>Course Work</h2>
-					<h3>Not that busy as for now. Love to dance!</h3>
-
-					<h3>Not that busy as for now. Love to dance!</h3>
-=======
-				<h2>Course Work</h2>
-				<h3>"Not that busy as for now. Love to dance. Still get time for it!"</h3>
-				<p>When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. All in all, my course load this semester is both exciting and challenging and covers both mental and physical aspects of human learning. I would love to spend more time on dancing in this sememster.Spring of 18 feels good, so far! </p>
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
+					<h3>"Not that busy as for now. Love to dance. Still get time for it!"</h3>
+					<p>When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. All in all, my
+						course load this semester is both exciting and challenging and covers both mental and physical aspects of human learning.
+						I would love to spend more time on dancing in this sememster.Spring of 18 feels good, so far! </p>
 
 					<p>When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. As a result,
 						I have a lot of economics and finance courses under my belt. I am taking Finance, Economics, Computer Science and Dance
@@ -83,42 +69,21 @@ include "includes/nav.php";
 						covers both mental and physical aspects of human learning. Spring of 18 feels good, so far!</p>
 
 
-<<<<<<< HEAD
-					<h2>Hometown Info</h2>
 
-					<p>I was born in Srinagar, in the Indian administered part of Jammu and Kashmir state. It is located in Srinagar District,
-						which is in the northwestern part of Jammu and Kashmir state, close to the Pakistani-Indian border. The population
-						was 1,273,312, according to the 2011 Census. The city is estimated to have been founded in the 6th Century AD. The
-						city is governed by Srinagar Municipal Corporation, which is essentially an elected body of councillors. The council's
-						leader is Ghulam Mustafa Bhat.</p>
-=======
-
-		
-	        </article>
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
 
 				</article>
 
-<<<<<<< HEAD
+				</article>
 
 				<aside>
 					<img src="images/irfan.jpg" alt="irfan">
-					<h3>Extracurricular Activities</h3>
-					<ul>
-						<li>Writing short stories, news articles and poetry</li>
-						<li>Reading fictional and Non fiction books</li>
-					</ul>
-=======
-	     	<aside>
-	            <img src="images/irfan.jpg" alt="irfan">
 
-	            
-	    	</aside>
-	    </div>
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
 
 				</aside>
 			</div>
+
+			</aside>
+		</div>
 
 		</div>
 
@@ -130,4 +95,4 @@ include "includes/footer.php";
 
 	</body>
 
-	</html>
+</html>

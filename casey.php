@@ -1,19 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Casey A. Brentnall, Assignment 4</title>
-		<!-- Designer include stylesheet-->
-		<link href="css/styles.css" rel="stylesheet">
-		<!-- links for fontface -->
-		<!-- Designer include lato fonts for headers and Roboto for body text-->
-		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
-	</head>
-
 <?php
 
 $title = "Casey";
@@ -21,10 +5,6 @@ $title = "Casey";
 include "includes/head.php";
 
 ?>
-<<<<<<< HEAD
-=======
-
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
 
 	<body>
 
@@ -47,18 +27,17 @@ include "includes/nav.php";
 					<h2>About Me</h2>
 
 					<p>Hello! My name is Casey Adam Brentnall. I am a sophomore attending the the University of Rochester and my major is computer
-						science.</p>
+						science.
+					</p>
 
 					<h2>Work Experience</h2>
 					<ul>
 						<li>work as a Standardized Patient in a Suicide Prevention Training program at URMC</li>
 						<li>worked as a cashier at BJ's Wholesale Club, and Family Dollar</li>
 
-<<<<<<< HEAD
 					</ul>
 
 					<h2>Course Work</h2>
-					<h3>Not heavy work load right now, but definitely a big plan ahead.</h3>
 					<h3>Not heavy work load right now, but definitely a big plan ahead.</h3>
 
 					<p>When I enrolled at the University of Rochester, I had planned on pursuing a double major in Computer Science and English.
@@ -69,59 +48,19 @@ include "includes/nav.php";
 						Equations, my first math class after calculus. I'm taking this class, and lastly I'm taking Musical Theatre Workshop,
 						a course in preparing scenework and audition materials for musical theatre actors.</p>
 
-					<h2>Hometown Info</h2>
-
-					<p>I was born in Farmington, New York. Farmington is a town located in the northern part of Ontario County, New York, United
-						States. The population was 11,825 at the 2010 census. Farmington is about twenty-five miles southeast of Rochester,
-						New York. The town was formed along with its county in 1789. The town is governed by a town council, and the council's
-						supervisor is Peter Ingalsbe.</p>
-
 				</article>
 
 				<aside>
 					<img src="images/casey.jpg" alt="casey">
-					<h3>Extracurricular Activities</h3>
-					<ul>
-						<li>TOOP, a student run theatrical group</li>
-						<li>ROC Players, a musical theatre organization</li>
-					</ul>
 
 				</aside>
 			</div>
-=======
-					
-				</ul> 
-
-				
-
-				<h2>Course Work</h2>
-				<h3>"Not heavy work load right now, but definitely a big plan ahead."</h3>
-				<p>When I enrolled at the University of Rochester, I had planned on pursuing a double major in Computer Science and English. Because of this, my previous coursework is a pretty even mix of CSC and ENG courses. This semester, I'm taking Introduction to Artificial Intelligence, my next step in the computer science track. I'm also taking Linear Algebra and Differential Equations, my first math class after calculus. I'm taking this class, and lastly I'm taking Musical Theatre Workshop, a course in preparing scenework and audition materials for musical theatre actors. I like the schedule I have as for now. I get spare time for my hobbies. </p>
-
-
-				
-
-
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
 
 		</div>
 
 		<!-- The footer should include a php include-->
 
-<<<<<<< HEAD
 		<?php
-=======
-	     	<aside>
-	            <img src="images/casey.jpg" alt="casey">
-
-	    </div>
-
-	</div>
-
-	<!-- The footer should include a php include-->
-
- 	<?php
->>>>>>> 625484276b26eb118934889fb4267faabb3b44f7
 include "includes/footer.php";
 ?>
 
