@@ -39,29 +39,21 @@ include "includes/nav.php";
 
 
 					<h2>Course Work</h2>
-					<h3>So much work need to take care!</h3>
+					<h3>"So much work need to take care!"</h3>
 
 					<p>When I enrolled at the University of Rochester, I had planned to pursue a Financial Economics and Data science major.Both
 						of the major are really intriging but also it is a lot of work to cover. I am currently taking CSC 265 this sememster.
 						Most of the semester I am overload but I really enjoy this experience. I plan to take fours courses in my last sememster
-						and in the mean time prepare for my GRE. </p>
+						and in the mean time prepare for my GRE. I need to finish my application as soon as possible. It is a lot of work to take care. I will surely take a long vocation after my application.</p>
 
 
-					<h2>Hometown Info</h2>
-
-					<p>I was born in China, Xian. Xi'an is the capital of Shaanxi Province, People's Republic of China. It is a sub-provincial
-						city located in the center of the Guanzhong Plain in Northwestern China. As of 2015 Xi'an has a population of 8,705,600.</p>
 
 				</article>
 
 
 				<aside>
 					<img src="images/peiran.jpg" alt="peiran">
-					<h3>Extracurricular Activities</h3>
-					<ul>
-						<li>Riding bikes </li>
-						<li>Climbing mountains</li>
-					</ul>
+					
 
 				</aside>
 			</div>
