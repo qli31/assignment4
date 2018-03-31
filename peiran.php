@@ -10,12 +10,10 @@ include "includes/head.php";
 
 		<!-- The header should include a php include-->
 		<!-- coder make sure all the php inclueds  work-->
-		<div class="header">
+		<div class="header" id="odd-header">
 
 			<div class="name">Senior: Peiran Chen</div>
-			<?php
-include "includes/nav.php";
-?>
+			<?php include "includes/nav.php"; ?>
 		</div>
 
 		<!-- The page should follow a flex layout-->
@@ -23,10 +21,10 @@ include "includes/nav.php";
 		<div class="container flexColumn">
 
 			<div class="container">
-				<article>
+				<article class="odd-text">
 					<h2>About Me</h2>
 
-					<p>Hello! My name is Peiran Chen. I am a Senior attending the the University of Rochester and my major is data science.</p>
+					<p>Hello! My name is Peiran Chen. I am a <mark>Senior</mark> attending the the University of Rochester and my major is data science.</p>
 
 					<h2>Work Experience</h2>
 					<ul>
@@ -51,7 +49,7 @@ include "includes/nav.php";
 				</article>
 
 
-				<aside>
+				<aside class="odd-img">
 					<img src="images/peiran.jpg" alt="peiran">
 					
 

@@ -13,9 +13,7 @@ include "includes/head.php";
 		<div class="header">
 
 			<div class="name">Sophmore: Casey A. Brentnall</div>
-			<?php
-include "includes/nav.php";
-?>
+			<?php include "includes/nav.php";?>
 		</div>
 
 		<!-- The page should follow a flex layout-->
@@ -26,7 +24,7 @@ include "includes/nav.php";
 				<article>
 					<h2>About Me</h2>
 
-					<p>Hello! My name is Casey Adam Brentnall. I am a sophomore attending the the University of Rochester and my major is computer
+					<p>Hello! My name is Casey Adam Brentnall. I am a <em>sophomore</em> attending the the University of Rochester and my major is computer
 						science.
 					</p>
 

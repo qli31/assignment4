@@ -1,9 +1,5 @@
-<?php
-
-$title = "Jimmy";
-
+<?php $title = "Jimmy";
 include "includes/head.php";
-
 ?>
 
 
@@ -14,8 +10,8 @@ include "includes/head.php";
 
 			<div class="name">Sophmore: Jimmy Yang</div>
 			<?php
-include "includes/nav.php";
-?>
+			include "includes/nav.php";
+			?>
 		</div>
 
 		<!-- The page should follow a flex layout-->
@@ -25,7 +21,7 @@ include "includes/nav.php";
 				<article>
 					<h2>About Me</h2>
 
-					<p>Hello! My name is Jimmy Yang. I am a sophomore attending the University of Rochester and I am double majoring in Economics
+					<p>Hello! My name is Jimmy Yang. I am a <em>sophomore</em> attending the University of Rochester and I am double majoring in Economics
 						and Global Perspectives History.</p>
 
 					<h2>Work Experience</h2>

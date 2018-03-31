@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Irfan Bashir, Assignment 4</title>
-	<!-- Designer include stylesheet-->
-	<link href="css/styles.css" rel="stylesheet">
-	<!-- links for fontface -->
-	<!-- Designer include lato fonts for headers and Roboto for body text-->
-	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
-</head>
-
 <?php
 
 $title = "Irfan";
@@ -41,7 +28,7 @@ include "includes/nav.php";
 				<article>
 					<h2>About Me</h2>
 
-					<p>Hello! My name is Irfan Bashir. I am a sophomore and an international student from Indian attending the University of
+					<p>Hello! My name is Irfan Bashir. I am a <em>sophomore</em> and an international student from Indian attending the University of
 						Rochester and my major is Financial Economics.</p>
 
 					<h2>Work Experience</h2>
@@ -58,9 +45,9 @@ include "includes/nav.php";
 					<h3>"Not that busy as for now. Love to dance. Still get time for it!"</h3>
 					<p>When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. All in all, my
 						course load this semester is both exciting and challenging and covers both mental and physical aspects of human learning.
-						I would love to spend more time on dancing in this sememster.Spring of 18 feels good, so far! </p>
+						I would love to spend more time on dancing in this sememster.Spring of 18 feels good, so far!
 
-					<p>When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. As a result,
+						When I enrolled at the University of Rochester, I had planned on pursuing a Financial Economics major. As a result,
 						I have a lot of economics and finance courses under my belt. I am taking Finance, Economics, Computer Science and Dance
 						courses this semester. Dance is by far my most favorite as it helps me become more aware of my body and experiment
 						with flow and movement. My economics course taught by Professor Rizzo is interesting in that it doesn’t fit the general
