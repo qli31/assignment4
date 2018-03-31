@@ -21,7 +21,7 @@ include "includes/head.php";
 		<div class="container flexColumn">
 
 			<div class="container">
-				<article class="odd-text">
+				<article class="odd-text odd-article">
 					<h2>About Me</h2>
 
 					<p>Hello! My name is Peiran Chen. I am a <mark>Senior</mark> attending the the University of Rochester and my major is data science.</p>

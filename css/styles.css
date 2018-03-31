@@ -56,10 +56,6 @@ to show that the site is about the differences between the senior and the sophom
 	width: 85%;
 }
 
-.index-container {
-	width: 90%;
-}
-
 .flexColumn {
 	flex-direction: column;
 }
@@ -166,6 +162,10 @@ ul {
 .index-article p {
 	padding-bottom: 40px;
 	margin-bottom: 40px;
+}
+
+.odd-article {
+	border-right: 1px solid #fad100;
 }
 
 
