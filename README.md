@@ -111,4 +111,10 @@ The web form page (pre_survey.php) have similar header, footer and general desig
 
 ## The Design Artist Section
 
+### Color Selection
+
+Rochester Blue  #315585 
+Rochester Yellow  #fad100 
+
+
 ## The Technical Coder Section
