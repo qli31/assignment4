@@ -30,7 +30,7 @@ include "includes/nav.php";
                     <label for="firstname"> First Name:</label>
                     <input type="text" name="firstname" id="firstname">
                     <label for="lastname"> Last name:</label>
-                    <input type="text" name="lastname" id="firstname">
+                    <input type="text" name="lastname" id="lastname">
 
                     <p>Want to share something from your: </p>
                     <input type="radio" name="year" id="first" value="first" checked>
@@ -61,14 +61,15 @@ include "includes/nav.php";
 
                 <?php
 
-$db_host = "66.147.242.186";
+// $db_host = "66.147.242.186";
+$db_host = "localhost";
 $db_user = "urcscon3_medell";
 $db_pw = "coffee1N";
 $db_name = "urcscon3_medell";
 
-$connect = mysqli_connect($db_host, $db_user, $db_pw, $db_name);
+$connect = new mysqli($db_host, $db_user, $db_pw, $db_name);
 
-$query = "SELECT * FROM Survey ORDER BY responseID DESC LIMIT 3";
+$query = "SELECT * FROM Survey ORDER BY responseID DESC";
 $result = mysqli_query($connect, $query);
 
 if ($result) {
@@ -78,7 +79,9 @@ if ($result) {
     <ol>
     ";
 
-    while ($row = mysqli_fetch_assoc($result)) {
+    $i = 0;
+    while ($row = $result->fetch_array()) {
+        ++$i;
         echo "
         <li>
         <ul>
@@ -89,6 +92,9 @@ if ($result) {
             </ul>
         </li>
     ";
+        if ($i == 3) {
+            break 1;
+        }
     }
     echo "
     </ol>
@@ -102,6 +108,10 @@ if ($result) {
 
         <?php
 include "includes/footer.php";
+
+mysqli_free_result($result);
+
+mysqli_close($connect);
 ?>
 
     </body>

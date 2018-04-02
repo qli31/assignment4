@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <?php
 
 $title = "Irfan";
@@ -30,7 +27,8 @@ include "includes/nav.php";
 
 					<p>Hello! My name is Irfan Bashir. I am a
 						<em>sophomore</em> and an international student from Indian attending the University of Rochester and my major is Financial
-						Economics.</p>
+						Economics.
+					</p>
 
 					<h2>Work Experience</h2>
 					<ul>
@@ -63,10 +61,6 @@ include "includes/nav.php";
 
 				</aside>
 			</div>
-
-			</aside>
-		</div>
-
 		</div>
 
 		<!-- The footer should include a php include-->
@@ -77,4 +71,4 @@ include "includes/footer.php";
 
 	</body>
 
-</html>
+	</html>

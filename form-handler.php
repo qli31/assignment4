@@ -4,12 +4,13 @@ $title = "Thank You!";
 
 include "includes/head.php";
 
-$db_host = "66.147.242.186";
+// $db_host = "66.147.242.186";
+$db_host = "localhost";
 $db_user = "urcscon3_medell";
 $db_pw = "coffee1N";
 $db_name = "urcscon3_medell";
 
-$connect = mysqli_connect($db_host, $db_user, $db_pw, $db_name);
+$connect = new mysqli($db_host, $db_user, $db_pw, $db_name);
 
 $firstname = $_POST['firstname'];
 $lastname = $_POST['lastname'];
@@ -49,7 +50,9 @@ if ($result) {
 				<?php
 include "includes/footer.php";
 
-mysql_close($connection);
+mysqli_free_result($result);
+
+mysqli_close($connect);
 ?>
 
 	</body>
