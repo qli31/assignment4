@@ -10,8 +10,8 @@ include "includes/head.php";
 
 			<div class="name">Sophmore: Jimmy Yang</div>
 			<?php
-			include "includes/nav.php";
-			?>
+include "includes/nav.php";
+?>
 		</div>
 
 		<!-- The page should follow a flex layout-->

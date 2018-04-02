@@ -13,7 +13,7 @@ include "includes/head.php";
 		<div class="header" id="odd-header">
 
 			<div class="name">Senior: Peiran Chen</div>
-			<?php include "includes/nav.php"; ?>
+			<?php include "includes/nav.php";?>
 		</div>
 
 		<!-- The page should follow a flex layout-->
@@ -51,7 +51,7 @@ include "includes/head.php";
 
 				<aside class="odd-img">
 					<img src="images/peiran.jpg" alt="peiran">
-					
+
 
 				</aside>
 			</div>
