@@ -19,11 +19,12 @@ include "includes/nav.php";
 
         <div class="container">
 
-            <div class="form-container">
+            <article>
 
-                <h2> Short Survey About YOU </h2>
-                <p>What to share some of your courseworks or work experience during your sophmore or senior year with us? Come
-                    and fill out the survey. Maybe you will find yourself in one of the webpage in the future.</p>
+                <h2> Survey - Your experiences</h2>
+                <p>This webpage showcases the experiences of students in their sophomore and senior years.</p>
+                <p>Want to share some of your courseworks or work experience during time in college? Come and fill out the survey.
+                    Maybe you will find yourself in one of these pages in the future.</p>
 
                 <form action="form-handler.php" method="POST">
                     <label for="firstname"> First Name:</label>
@@ -45,16 +46,57 @@ include "includes/nav.php";
                     <label for="senior">Senior Year</label>
                     <br>
 
-                    <p>Tell me something about your coursework: </p>
+                    <p>Tell us something about your coursework: </p>
                     <textarea name="coursework" id="coursework" rows="10"></textarea>
 
-                    <p>Tell me something about your work experience: </p>
+                    <p>Tell us something about your work experience: </p>
                     <textarea name="workexperience" id="workexperience" rows="10"></textarea>
-                    <input type="submit">
+                    <input type="submit" value="submit">
 
                 </form>
 
-            </div>
+            </article>
+
+            <aside>
+
+                <?php
+
+$db_host = "66.147.242.186";
+$db_user = "urcscon3_medell";
+$db_pw = "coffee1N";
+$db_name = "urcscon3_medell";
+
+$connect = mysqli_connect($db_host, $db_user, $db_pw, $db_name);
+
+$query = "SELECT * FROM Survey ORDER BY responseID DESC LIMIT 3";
+$result = mysqli_query($connect, $query);
+
+if ($result) {
+
+    echo "
+    <h2>Response from previous users: </h2>
+    <ol>
+    ";
+
+    while ($row = mysqli_fetch_assoc($result)) {
+        echo "
+        <li>
+        <ul>
+            <li><h3>" . $row['firstname'] . " " . $row['lastname'] . "</h3></li>
+            <li><strong>Year: </strong>" . $row['year'] . "</li>
+            <li><strong>Course Work: </strong>" . $row['coursework'] . "</li>
+            <li><strong>Work Experience: </strong>" . $row['workexperience'] . "</li>
+            </ul>
+        </li>
+    ";
+    }
+    echo "
+    </ol>
+    ";
+}
+?>
+
+            </aside>
 
         </div>
 
